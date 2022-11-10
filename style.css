@@ -158,7 +158,7 @@ img {
 
     html, body, main {
         width: 100vw;
-        min-height: 100vh;
+        min-height: 110vh;
     }
     
     .flex {
