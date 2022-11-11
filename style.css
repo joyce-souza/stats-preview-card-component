@@ -18,7 +18,7 @@ box-sizing: border-box;
 
 
 html, body, main {
-    width: 100vw;
+    max-width: 100vw;
     height: 100vh;
 }
 
@@ -157,8 +157,8 @@ img {
 @media (max-width: 875px) {
 
     html, body, main {
-        width: 100vw;
-        min-height: 110vh;
+        max-width: 100vw;
+        height: 100vh;
     }
     
     .flex {
