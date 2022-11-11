@@ -11,7 +11,7 @@ This is my solution to the Stats preview card component challenge on Frontend Me
 
 ## Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-card-using-flexbox-and-objectfitcover-TP_1HC1-Zx
 - Live Site URL: https://joyce-souza.github.io/stats-preview-card-component/
 
 ## Built with
