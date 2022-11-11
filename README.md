@@ -4,9 +4,9 @@ This is my solution to the Stats preview card component challenge on Frontend Me
 
 ## Screenshot
 
-![Stats preview card component - desktop]()
+![Stats preview card component - desktop](images/screenshot-desktop.png)
 
-![Stats preview card component - mobile]()
+![Stats preview card component - mobile](images/screenshot-mobile.png)
 
 
 ## Links
