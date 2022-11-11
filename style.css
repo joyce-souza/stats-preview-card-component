@@ -162,8 +162,8 @@ img {
 
     html, body, main {
         width: 100vw;
-        min-height: 110vh;
-        max-height: 115vh;
+        min-height: 115vh;
+        max-height: 120vh;
     }
     
     .flex {
